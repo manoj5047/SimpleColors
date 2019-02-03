@@ -4,7 +4,7 @@ repositories {
     mavenCentral()
     google()
     jcenter()
-    maven { url "https://jitpack.io" }
+    maven { url 'https://jitpack.io' }
 }
 
 group = 'com.github.Sayi5047'
